@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17873" started-at="2021-07-23T19:23:55Z" finished-at="2021-07-23T19:24:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17873" started-at="2021-07-23T19:23:55Z" finished-at="2021-07-23T19:24:13Z">
+      <class name="cRUDWorkflow.trelloWorkflow">
+        <test-method status="PASS" signature="createBoardReq1()[pri:1, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createBoardReq1" duration-ms="3603" started-at="2021-07-23T20:23:55Z" finished-at="2021-07-23T20:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoardReq1 -->
+        <test-method status="PASS" signature="createListReq3()[pri:2, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createListReq3" duration-ms="374" started-at="2021-07-23T20:23:59Z" finished-at="2021-07-23T20:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createListReq3 -->
+        <test-method status="PASS" signature="createListReq2()[pri:3, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createListReq2" duration-ms="360" started-at="2021-07-23T20:23:59Z" finished-at="2021-07-23T20:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createListReq2 -->
+        <test-method status="PASS" signature="createListReq1()[pri:4, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createListReq1" duration-ms="344" started-at="2021-07-23T20:24:00Z" finished-at="2021-07-23T20:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createListReq1 -->
+        <test-method status="PASS" signature="createListReq4()[pri:5, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createListReq4" duration-ms="349" started-at="2021-07-23T20:24:00Z" finished-at="2021-07-23T20:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createListReq4 -->
+        <test-method status="PASS" signature="createCardToDoList()[pri:6, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createCardToDoList" duration-ms="407" started-at="2021-07-23T20:24:00Z" finished-at="2021-07-23T20:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCardToDoList -->
+        <test-method status="PASS" signature="createCardDoingList()[pri:7, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createCardDoingList" duration-ms="395" started-at="2021-07-23T20:24:01Z" finished-at="2021-07-23T20:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCardDoingList -->
+        <test-method status="PASS" signature="createCardDoneList()[pri:8, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createCardDoneList" duration-ms="418" started-at="2021-07-23T20:24:01Z" finished-at="2021-07-23T20:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCardDoneList -->
+        <test-method status="PASS" signature="createCardBacklogList()[pri:9, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createCardBacklogList" duration-ms="5486" started-at="2021-07-23T20:24:01Z" finished-at="2021-07-23T20:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCardBacklogList -->
+        <test-method status="PASS" signature="createCardDone2List()[pri:10, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="createCardDone2List" duration-ms="5422" started-at="2021-07-23T20:24:07Z" finished-at="2021-07-23T20:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCardDone2List -->
+        <test-method status="PASS" signature="deleteBoard()[pri:11, instance:cRUDWorkflow.trelloWorkflow@26be92ad]" name="deleteBoard" duration-ms="671" started-at="2021-07-23T20:24:12Z" finished-at="2021-07-23T20:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+      </class> <!-- cRUDWorkflow.trelloWorkflow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
